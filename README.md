@@ -2,14 +2,14 @@
 
 ### [HybridTM: Combining Transformer and Mamba for 3D Semantic Segmentation](https://arxiv.org/abs/2407.18232)
 
-[Xinyu Wang](https://github.com/deepinact) </sup>,
-[Jinghua Hou](https://github.com/AlmoonYsl) </sup>,
+[Xinyu Wang](https://github.com/deepinact) </sup>  \*,
+[Jinghua Hou](https://github.com/AlmoonYsl) </sup>  \*,
 [Zhe Liu](https://happinesslz.github.io)  </sup>,
 [Yingying Zhu](https://xbai.vlrlab.net) ✉</sup>
 <br>
 <sup></sup> Huazhong University of Science and Technology
 <br>
-✉ Corresponding author
+  \* Equal contribution, ✉ Corresponding author
 <br>
 
 <img src="./docs/intro.jpg" alt="Image 2" width="60%" style="margin: 0 auto;" >
@@ -99,9 +99,9 @@ sh scripts/train.sh -g 4 -d nuscenes -c semseg-hybridTM-v1m1-0-base -n semseg-hy
 @article{hybridTM,
   title={HybridTM: Combining Transformer and Mamba for 3D
 Semantic Segmentation},
-  author={},
-  journal={},
-  year={}
+  author={Xinyu Wang, Jinghua Hou, Zhe Liu, and Yingying Zhu},
+  booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems},
+  year={2025}
   }
 ```
 
