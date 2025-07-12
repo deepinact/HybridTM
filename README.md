@@ -26,6 +26,9 @@ Transformer-based methods have demonstrated remarkable capabilities in 3D semant
 
 </div>
 
+## News
+* **2024.06.30**: HybridTM has been accepted by IROS 2025. 
+
 ## Results
 * **Scannet Val**
 
@@ -93,6 +96,11 @@ sh scripts/train.sh -g 4 -d s3dis -c semseg-pt-v3m1-0-rpe -n semseg-pt-v3m1-0-rp
 # Scratched nuScenes
 sh scripts/train.sh -g 4 -d nuscenes -c semseg-hybridTM-v1m1-0-base -n semseg-hybridTM-v1m1-0-base
 ```
+
+## TODO
+
+- [ ] Release the paper.
+- [ ] Release the checkpoints of LION on the Scannet.
 
 ## Citation
 ```
