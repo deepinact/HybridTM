@@ -1,6 +1,6 @@
 <div align="center">
 
-### [HybridTM: Combining Transformer and Mamba for 3D Semantic Segmentation](https://arxiv.org/abs/2407.18232)
+### [HybridTM: Combining Transformer and Mamba for 3D Semantic Segmentation](https://github.com/deepinact/HybridTM)
 
 [Xinyu Wang](https://github.com/deepinact) </sup>  \*,
 [Jinghua Hou](https://github.com/AlmoonYsl) </sup>  \*,
@@ -79,7 +79,7 @@ Transformer-based methods have demonstrated remarkable capabilities in 3D semant
 | Ours | - | 80.9 |
 
 ## Installation
-Please refer to [INSTALL.md](docs/INSTALL.md) for the installation of LION codebase.
+Please refer to [INSTALL.md](docs/INSTALL.md) for the installation of HybridTM codebase.
 
 
 ## Getting Started
@@ -100,7 +100,7 @@ sh scripts/train.sh -g 4 -d nuscenes -c semseg-hybridTM-v1m1-0-base -n semseg-hy
 ## TODO
 
 - [ ] Release the paper.
-- [ ] Release the checkpoints of LION on the Scannet.
+- [ ] Release the checkpoints of HybridTM on the Scannet.
 
 ## Citation
 ```
