@@ -1,6 +1,6 @@
 <div align="center">
 
-### [HybridTM: Combining Transformer and Mamba for 3D Semantic Segmentation](https://github.com/deepinact/HybridTM)
+### [HybridTM: Combining Transformer and Mamba for 3D Semantic Segmentation](https://arxiv.org/abs/2507.18575)
 
 [Xinyu Wang](https://github.com/deepinact) </sup>  \*,
 [Jinghua Hou](https://github.com/AlmoonYsl) </sup>  \*,
@@ -27,7 +27,7 @@ Transformer-based methods have demonstrated remarkable capabilities in 3D semant
 </div>
 
 ## News
-* **2024.06.30**: HybridTM has been accepted by IROS 2025. 
+* **2024.06.30**: HybridTM has been accepted by IROS 2025 as Oral presentation. 
 
 ## Results
 * **Scannet Val**
@@ -99,15 +99,15 @@ sh scripts/train.sh -g 4 -d nuscenes -c semseg-hybridTM-v1m1-0-base -n semseg-hy
 
 ## TODO
 
-- [ ] Release the paper.
+- [x] Release the paper.
 - [ ] Release the checkpoints of HybridTM on the Scannet.
 
 ## Citation
 ```
-@article{hybridTM,
+@inproceedings{hybridTM,
   title={HybridTM: Combining Transformer and Mamba for 3D
 Semantic Segmentation},
-  author={Xinyu Wang, Jinghua Hou, Zhe Liu, and Yingying Zhu},
+  author={Wang, Xinyu and Hou, Jinghua and Liu, Zhe and Zhu, Yingying},
   booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems},
   year={2025}
   }
