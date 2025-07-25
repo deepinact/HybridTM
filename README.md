@@ -115,4 +115,4 @@ Semantic Segmentation},
 
 ## Acknowledgements
 We thank these great works and open-source repositories:
-[Pointcept](https://github.com/Pointcept/Pointcept), [Mamba](https://github.com/state-spaces/mamba), [Spconv](https://github.com/traveller59/spconv) and [flash-linear-attention](https://github.com/sustcsonglin/flash-linear-attention).
+[Pointcept](https://github.com/Pointcept/Pointcept), [LION](https://github.com/happinesslz/LION), [Mamba](https://github.com/state-spaces/mamba), [Spconv](https://github.com/traveller59/spconv) and [flash-linear-attention](https://github.com/sustcsonglin/flash-linear-attention).
