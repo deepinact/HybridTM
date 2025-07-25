@@ -27,7 +27,7 @@ Transformer-based methods have demonstrated remarkable capabilities in 3D semant
 </div>
 
 ## News
-* **2024.06.30**: HybridTM has been accepted by IROS 2025 as Oral presentation. 
+* **2024.06.30**: HybridTM has been accepted by IROS 2025 as an Oral presentation. 
 
 ## Results
 * **Scannet Val**
